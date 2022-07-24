@@ -12,7 +12,7 @@ cd <app_name>
 # and
 yarn start (to start the development server on local machine)
 # Dependencies
-yarn add [sass](https://sass-lang.com/) [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd/) uuid
+yarn add sass react-beautiful-dnd uuid
 
 ```
 
@@ -20,7 +20,9 @@ yarn add [sass](https://sass-lang.com/) [react-beautiful-dnd](https://github.com
 
 - Refactor the starter template to create a management tool board.
 
-- Import SASS & uuid to creata mockdata to shuffle the task cards in the board.
+- Import [sass](https://sass-lang.com/) & uuid to creata mockdata for the task cards in the board.
+
+Import [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd/) to switch the card between sections.
 
 Google font: [Lato](https://fonts.google.com/specimen/Lato?query=lato)
 
@@ -28,7 +30,9 @@ Google font: [Lato](https://fonts.google.com/specimen/Lato?query=lato)
 
 - Follow the instructions from react-beautiful-dnd Draggable & Droppable components to get the UI interface running.
 
-- Create the DragEnd function where the
+- Create the DragEnd function where the cards could be dragged btween sections on the board.
+
+- Import gh-pages to deploy the application on github.
 
 ### Deployment
 
