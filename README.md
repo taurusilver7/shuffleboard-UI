@@ -1,6 +1,6 @@
-# A Kanban Project Management Board
+# A Project Management Shuffle Board
 
-> A project management tool kit created using React JS and styled with SASS.
+> A project management tool kit to seggregate to-do, in progress, and completed tasks, created using React JS and styled with SASS.
 
 ## Setup
 
